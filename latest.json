@@ -1,12 +1,14 @@
 {
   "versionCode": 2,
-  "versionName": "1.0.0",
-  "apkUrl": "",
-  "sha256": "",
+  "versionName": "2.0.0",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v2.0.0/solo-system-v2.0.0.apk",
+  "sha256": "ea9f39d7bc3d70abf2615be3b89e97f814a1951451883af0c960025360ab624a",
   "mandatory": false,
   "minSupportedVersionCode": 1,
   "releasedAt": "2026-05-21T00:00:00+03:00",
   "changelog": [
-    "Initial update channel configured."
+    "Private APK update channel configured.",
+    "Manifest validation fixed.",
+    "Android installer update flow prepared."
   ]
 }
