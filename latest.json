@@ -1,14 +1,14 @@
 {
-  "versionCode": 5,
-  "versionName": "3.0.2",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.2/solo-system-v3.0.2.apk",
-  "sha256": "b7f748225ea75d3c3560d1fe705c8ca7f4f5853a6e15950533c08673b3119a43",
+  "versionCode": 6,
+  "versionName": "3.0.3",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.3/solo-system-v3.0.3.apk",
+  "sha256": "1482cbc60de603f152bf11c6feecfce3081d88352b477870cba05eaae583ecc6",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-22T14:01:06+03:00",
+  "releasedAt": "2026-05-22T23:02:11+03:00",
   "changelog": [
-    "Android package prepared for version 3.0.2.",
-    "versionCode raised to 5 so devices on local versionCode 4 receive the update.",
-    "APK checksum refreshed for the v3.0.2 GitHub release asset."
+    "Solo Leveling daily command flow added.",
+    "Samsung Health proof sync added through Health Connect.",
+    "Download and install updater no longer stays waiting when permission or native updater state is missing."
   ]
 }
