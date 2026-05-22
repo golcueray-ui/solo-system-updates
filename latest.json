@@ -1,14 +1,14 @@
 {
-  "versionCode": 7,
-  "versionName": "3.0.4",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.4/solo-system-v3.0.4.apk",
-  "sha256": "32add0060d0973b238183b92a53f4db8e1514a14eddf22cbcde0bbea47084dc5",
+  "versionCode": 8,
+  "versionName": "3.0.5",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.5/solo-system-v3.0.5.apk",
+  "sha256": "9314cfc713cee715547ff507ca33a1d24cc8377d0ed42054f4c65043f12e290c",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-22T23:25:32+03:00",
+  "releasedAt": "2026-05-22T21:11:56.197Z",
   "changelog": [
-    "Samsung Health step-only days now estimate run/walk distance.",
-    "Active calories are estimated when Health Connect omits active calorie aggregates.",
-    "Samsung Health Proof marks estimated distance and calories clearly."
+    "Health Connect reads steps, distance, and calories with per-record fallbacks",
+    "Samsung Health Proof now shows steps, raw distance, active calories, total calories, records, permissions, and errors",
+    "Today snapshot reads use the phone local day instead of UTC"
   ]
 }
