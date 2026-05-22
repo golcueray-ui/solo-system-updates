@@ -1,14 +1,14 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/golcueray-ui/solo-system-updates/main/solo-system-v3.0.0.apk",
-  "sha256": "54d9ebc8613f78f7a8c7f5d9c527294d275ec9e430eb06ebcf5bb04524430fc6",
+  "versionCode": 5,
+  "versionName": "3.0.2",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.2/solo-system-v3.0.2.apk",
+  "sha256": "b7f748225ea75d3c3560d1fe705c8ca7f4f5853a6e15950533c08673b3119a43",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-21T00:00:00+03:00",
+  "releasedAt": "2026-05-22T14:01:06+03:00",
   "changelog": [
-    "Turkish and English language setting added.",
-    "System interface localized to Turkish by default.",
-    "Android package prepared for version 3.0.0."
+    "Android package prepared for version 3.0.2.",
+    "versionCode raised to 5 so devices on local versionCode 4 receive the update.",
+    "APK checksum refreshed for the v3.0.2 GitHub release asset."
   ]
 }
