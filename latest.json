@@ -1,14 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "3.0.3",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.3/solo-system-v3.0.3.apk",
-  "sha256": "1482cbc60de603f152bf11c6feecfce3081d88352b477870cba05eaae583ecc6",
+  "versionCode": 7,
+  "versionName": "3.0.4",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.4/solo-system-v3.0.4.apk",
+  "sha256": "32add0060d0973b238183b92a53f4db8e1514a14eddf22cbcde0bbea47084dc5",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-22T23:02:11+03:00",
+  "releasedAt": "2026-05-22T23:25:32+03:00",
   "changelog": [
-    "Solo Leveling daily command flow added.",
-    "Samsung Health proof sync added through Health Connect.",
-    "Download and install updater no longer stays waiting when permission or native updater state is missing."
+    "Samsung Health step-only days now estimate run/walk distance.",
+    "Active calories are estimated when Health Connect omits active calorie aggregates.",
+    "Samsung Health Proof marks estimated distance and calories clearly."
   ]
 }
