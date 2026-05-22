@@ -1,15 +1,15 @@
 {
-  "versionCode": 10,
-  "versionName": "3.0.7",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.7/solo-system-v3.0.7.apk",
-  "sha256": "1a690382626c91b8b7f029caa02a1c0c18523d45d35a5cd49b48a21c5fc15f0b",
+  "versionCode": 11,
+  "versionName": "3.0.8",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.8/solo-system-v3.0.8.apk",
+  "sha256": "614c98ce1a9c8bb25d74936e40e13830493001ebab359da2e27e5f1db7ab9b7e",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-22T22:13:25.278Z",
+  "releasedAt": "2026-05-22T22:32:10.963Z",
   "changelog": [
-    "Solo Leveling System core matrix added: player-only system, status window, daily quest, rewards, penalty, store, job change, and shadow memory",
-    "Daily Quest now includes 100 push-ups, 100 sit-ups, 100 squats, and 10 km run or walk",
-    "System Store now lets Gold buy recovery items, reward boxes, and dungeon keys",
-    "Status Window now shows title, job, fatigue, and Job Change progress"
+    "Mobile UI polish reduces crowded System surfaces without removing features",
+    "Quest manual inputs, Authority details, Core Matrix, and Evidence details are now collapsible",
+    "Phone performance improved by reducing scan animations, blur/backdrop effects, heavy background layers, and motion",
+    "Store and card layouts are more compact with overflow guards"
   ]
 }
