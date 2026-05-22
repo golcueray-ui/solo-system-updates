@@ -1,15 +1,15 @@
 {
-  "versionCode": 11,
-  "versionName": "3.0.8",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.8/solo-system-v3.0.8.apk",
-  "sha256": "614c98ce1a9c8bb25d74936e40e13830493001ebab359da2e27e5f1db7ab9b7e",
+  "versionCode": 12,
+  "versionName": "3.0.9",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.9/solo-system-v3.0.9.apk",
+  "sha256": "189cee38c9b59dac3e2fff0ef7f160584614ef346ecde7f954753ab9bed4df17",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-22T22:32:10.963Z",
+  "releasedAt": "2026-05-22T22:41:57.071Z",
   "changelog": [
-    "Mobile UI polish reduces crowded System surfaces without removing features",
-    "Quest manual inputs, Authority details, Core Matrix, and Evidence details are now collapsible",
-    "Phone performance improved by reducing scan animations, blur/backdrop effects, heavy background layers, and motion",
-    "Store and card layouts are more compact with overflow guards"
+    "THE SYSTEM interface now uses a sharper original HUD identity with bracketed command windows",
+    "Visible Solo Leveling branding was replaced by THE SYSTEM wording to keep the app legally safer",
+    "Main command panel now has a System Message header, signal line, angular corners, and stronger command focus",
+    "Mobile performance guards remain active: no phone overflow, scan/glow disabled on touch screens, compact details preserved"
   ]
 }
