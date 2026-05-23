@@ -1,15 +1,15 @@
 {
-  "versionCode": 12,
-  "versionName": "3.0.9",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.9/solo-system-v3.0.9.apk",
-  "sha256": "189cee38c9b59dac3e2fff0ef7f160584614ef346ecde7f954753ab9bed4df17",
+  "versionCode": 13,
+  "versionName": "3.0.10",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.10/solo-system-v3.0.10.apk",
+  "sha256": "b497844c887a194997472cd93634353a3ae17ccb9076ff9a8905237ea57df148",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-22T22:41:57.071Z",
+  "releasedAt": "2026-05-23T09:42:26.656Z",
   "changelog": [
-    "THE SYSTEM interface now uses a sharper original HUD identity with bracketed command windows",
-    "Visible Solo Leveling branding was replaced by THE SYSTEM wording to keep the app legally safer",
-    "Main command panel now has a System Message header, signal line, angular corners, and stronger command focus",
-    "Mobile performance guards remain active: no phone overflow, scan/glow disabled on touch screens, compact details preserved"
+    "Ayarlar menu eklendi: dil, Samsung Health/Health Connect, guncelleme, oyuncu kalibrasyonu ve pilot kontrolleri tek yerde toplandi",
+    "Ana SYSTEM yuzeyi komut, otorite, core ve kanit ekranlari icin temizlendi",
+    "Alt navigasyon dort ana sekme olarak kaldi; Ayarlar header uzerinden aciliyor",
+    "Mobil kontrolde Ayarlar ekraninda yatay tasma yok ve onceki performans korumalari korunuyor"
   ]
 }
