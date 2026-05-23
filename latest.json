@@ -1,15 +1,14 @@
 {
-    "versionCode":  14,
-    "versionName":  "3.0.11",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.11/solo-system-v3.0.11.apk",
-    "sha256":  "5096f0534632d56c755c6815f7e662e9ea887fb7f9dcacf538c8b94475665119",
+    "versionCode":  15,
+    "versionName":  "3.0.12",
+    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.12/solo-system-v3.0.12.apk",
+    "sha256":  "a859931bddfb916191d897f162380df35c5ceb9a1257de5d9fb28d6392894fed",
     "mandatory":  false,
     "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-05-23T13:12:58+03:00",
+    "releasedAt":  "2026-05-23T13:39:57+03:00",
     "changelog":  [
-                      "Samsung Health boy/kilo kayitlari artik 1095 gunluk gecmisten son kayit olarak okunur.",
-                      "Adim ve mesafe kaniti 10 km gorevine ve recovery yuruyus dakikalarina otomatik islenir.",
-                      "Samsung mesafe veya aktif kalori toplamlarini vermediginde adimlardan guvenli tahmin uretilir.",
-                      "Health sync mevcut uyku check-in degerini veri yokken varsayilanla ezmez."
+                      "Gorev kartlari artik SYSTEM ORDER, UYGULAMA, KANIT ve BITIS satirlariyla net emir veriyor.",
+                      "Ana System komut paneli gorev hedeflerini daha kesin uygulama emrine ceviriyor.",
+                      "Mobil gorev kartlarinda uzun emir metinleri icin tasma/kayma onlendi."
                   ]
 }
