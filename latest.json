@@ -2,13 +2,13 @@
   "versionCode": 17,
   "versionName": "3.0.14",
   "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.14/solo-system-v3.0.14.apk",
-  "sha256": "e66f2b423786c68f83b98b79aa1602d68a5e508ef47867a4d13be3c5f77d15da",
+  "sha256": "110c53faad88f24be7d892a8fec1139a5f7d401a7c67a95a61835609972bb2d3",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-23T16:07:57.658Z",
+  "releasedAt": "2026-05-23T16:17:46.854Z",
   "changelog": [
     "System HUD package completed",
     "Android versionCode increased to 17",
-    "Update package rebuilt for v3.0.14"
+    "Release-signed APK rebuilt for v3.0.14"
   ]
 }
