@@ -1,15 +1,14 @@
 {
-    "versionCode":  16,
-    "versionName":  "3.0.13",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.13/solo-system-v3.0.13.apk",
-    "sha256":  "05e97b9d3d35981e5e9d01e00fe004f16327d9dbfa457a54309b261754d8596e",
-    "mandatory":  false,
-    "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-05-23T13:51:47+03:00",
-    "changelog":  [
-                      "Quest ekrani Solo-style hologram System penceresi olarak yeniden tasarlandi.",
-                      "SIRADAKI EMIR paneli eklendi: oyuncu once tek net emri gorur, kanitini ustten girer.",
-                      "Gorevler kompakt mission listesine donustu; ayrinti ve manuel kanit girisi tek dokunusla acilir.",
-                      "Mobilde tasma/kayma kontrol edildi ve kanit girince sistemin sonraki emre gecmesi dogrulandi."
-                  ]
+  "versionCode": 17,
+  "versionName": "3.0.14",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.14/solo-system-v3.0.14.apk",
+  "sha256": "e66f2b423786c68f83b98b79aa1602d68a5e508ef47867a4d13be3c5f77d15da",
+  "mandatory": false,
+  "minSupportedVersionCode": 1,
+  "releasedAt": "2026-05-23T16:07:57.658Z",
+  "changelog": [
+    "System HUD package completed",
+    "Android versionCode increased to 17",
+    "Update package rebuilt for v3.0.14"
+  ]
 }
