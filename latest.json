@@ -1,15 +1,15 @@
 {
-  "versionCode": 13,
-  "versionName": "3.0.10",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.10/solo-system-v3.0.10.apk",
-  "sha256": "b497844c887a194997472cd93634353a3ae17ccb9076ff9a8905237ea57df148",
-  "mandatory": false,
-  "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-23T09:42:26.656Z",
-  "changelog": [
-    "Ayarlar menu eklendi: dil, Samsung Health/Health Connect, guncelleme, oyuncu kalibrasyonu ve pilot kontrolleri tek yerde toplandi",
-    "Ana SYSTEM yuzeyi komut, otorite, core ve kanit ekranlari icin temizlendi",
-    "Alt navigasyon dort ana sekme olarak kaldi; Ayarlar header uzerinden aciliyor",
-    "Mobil kontrolde Ayarlar ekraninda yatay tasma yok ve onceki performans korumalari korunuyor"
-  ]
+    "versionCode":  14,
+    "versionName":  "3.0.11",
+    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.11/solo-system-v3.0.11.apk",
+    "sha256":  "5096f0534632d56c755c6815f7e662e9ea887fb7f9dcacf538c8b94475665119",
+    "mandatory":  false,
+    "minSupportedVersionCode":  1,
+    "releasedAt":  "2026-05-23T13:12:58+03:00",
+    "changelog":  [
+                      "Samsung Health boy/kilo kayitlari artik 1095 gunluk gecmisten son kayit olarak okunur.",
+                      "Adim ve mesafe kaniti 10 km gorevine ve recovery yuruyus dakikalarina otomatik islenir.",
+                      "Samsung mesafe veya aktif kalori toplamlarini vermediginde adimlardan guvenli tahmin uretilir.",
+                      "Health sync mevcut uyku check-in degerini veri yokken varsayilanla ezmez."
+                  ]
 }
