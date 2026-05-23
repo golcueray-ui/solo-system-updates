@@ -2,13 +2,14 @@
   "versionCode": 19,
   "versionName": "3.0.16",
   "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.16/solo-system-v3.0.16.apk",
-  "sha256": "a201e72f698a546bdb14a19801ba6e22cfb47cd7d00d01d89fa1f965e3023995",
+  "sha256": "bf3869b542ac65ab693cc5d50d84e04eb5b08f5768201f6f7664cbcb23a620ba",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-23T16:44:26.589Z",
+  "releasedAt": "2026-05-23T16:47:56.320Z",
   "changelog": [
     "Language mode consistency fixed",
     "Health Connect duplicate snapshot guard added",
-    "Samsung Health steps distance and calories now use guarded daily totals"
+    "Samsung Health steps distance and calories now use guarded daily totals",
+    "Duplicate guard diagnostics added to Health panel"
   ]
 }
