@@ -1,14 +1,14 @@
 {
-    "versionCode":  23,
-    "versionName":  "5.0.0",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.0.0/solo-system-v5.0.0.apk",
-    "sha256":  "54fd9c2c2330100fec7d9d5615ea7b9656e5009808c010ee806334cedf9486f8",
+    "versionCode":  24,
+    "versionName":  "5.1.0",
+    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.0/solo-system-v5.1.0.apk",
+    "sha256":  "bf5fbf53a85a99be792899662a7a89f84d4020fc06941f71e82eb13a990cac58",
     "mandatory":  false,
     "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-05-24T19:18:52+03:00",
+    "releasedAt":  "2026-05-24T22:44:53+03:00",
     "changelog":  [
-                      "v5.0 Hükümdarın Yolu ekranı ana programa alındı.",
-                      "Uygulama içi Güncelleme Ara ve İndir/Kur akışı bağlandı.",
-                      "v5 günlük ödül akışındaki eksik bağlantı tamamlandı."
+                      "v5 tasarım dilinde Sistem Motoru paneli eklendi.",
+                      "Sağlık verisi arka planda sistem beynine ve günlük koşu ilerlemesine bağlandı.",
+                      "Readiness, otorite ve komut özeti ana menüyle uyumlu kartlara taşındı."
                   ]
 }
