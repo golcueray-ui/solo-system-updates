@@ -1,14 +1,14 @@
 {
-    "versionCode":  21,
-    "versionName":  "3.1.0",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.1.0/solo-system-v3.1.0.apk",
-    "sha256":  "93b9cef167a8249131d64b3ebf7bd19766e93b470e54f1d7896e96cabdb46854",
+    "versionCode":  22,
+    "versionName":  "4.0.0",
+    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v4.0.0/solo-system-v4.0.0.apk",
+    "sha256":  "ecec7225609c2b1d945d9d45125cfb26147d9a61492330a1c46d0ec38502daec",
     "mandatory":  false,
     "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-05-24T18:03:50+03:00",
+    "releasedAt":  "2026-05-24T18:36:39+03:00",
     "changelog":  [
-                      "Ana ekran attığınız Solo Leveling Pro menüsüyle değiştirildi.",
-                      "Samsung/Health Connect okuması menüde görünmeden arka planda çalışacak şekilde bağlandı.",
-                      "Güncelleme ara, indir ve kur akışı yeni ana menüye eklendi."
+                      "Ana ekran v4 Solo Leveling düzenine taşındı.",
+                      "Samsung/Health verileri arka planda sessiz okunmaya devam ediyor.",
+                      "Uygulama içi güncelleme kontrolü v4 paketine bağlandı."
                   ]
 }
