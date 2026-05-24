@@ -7,6 +7,8 @@
     "minSupportedVersionCode":  1,
     "releasedAt":  "2026-05-24T16:43:26+03:00",
     "changelog":  [
-                      "Update package generated."
+                      "Gemini-inspired monarch main menu added.",
+                      "Main dashboard now shows combat power, vitals, quests, modules, and update shortcut.",
+                      "Android package prepared for version 3.0.17."
                   ]
 }
