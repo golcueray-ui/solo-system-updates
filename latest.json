@@ -1,14 +1,14 @@
 {
-    "versionCode":  20,
-    "versionName":  "3.0.17",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.0.17/solo-system-v3.0.17.apk",
-    "sha256":  "58b37db4a2977cd0f3e1f4e8b7224d1b3d2709476531b162ce76a4deea8d8f7e",
+    "versionCode":  21,
+    "versionName":  "3.1.0",
+    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v3.1.0/solo-system-v3.1.0.apk",
+    "sha256":  "93b9cef167a8249131d64b3ebf7bd19766e93b470e54f1d7896e96cabdb46854",
     "mandatory":  false,
     "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-05-24T16:43:26+03:00",
+    "releasedAt":  "2026-05-24T18:03:50+03:00",
     "changelog":  [
-                      "Gemini-inspired monarch main menu added.",
-                      "Main dashboard now shows combat power, vitals, quests, modules, and update shortcut.",
-                      "Android package prepared for version 3.0.17."
+                      "Ana ekran attığınız Solo Leveling Pro menüsüyle değiştirildi.",
+                      "Samsung/Health Connect okuması menüde görünmeden arka planda çalışacak şekilde bağlandı.",
+                      "Güncelleme ara, indir ve kur akışı yeni ana menüye eklendi."
                   ]
 }
