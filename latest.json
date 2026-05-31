@@ -1,16 +1,14 @@
 {
-  "versionCode": 25,
-  "versionName": "5.1.1",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.1/solo-system-v5.1.1.apk",
-  "sha256": "8c46481f6df0a803f1c1f8d76d9d3a220a596ce1e755ff76aa6bcf98cc804695",
+  "versionCode": 26,
+  "versionName": "5.1.2",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.2/solo-system-v5.1.2.apk",
+  "sha256": "d549e0cc1c7072e088fccdf8ca4448ef9b09f6ca3c37fa14c23bf5e3a8a8669a",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-31T19:15:31.288Z",
+  "releasedAt": "2026-05-31T20:17:22.614Z",
   "changelog": [
-    "Akıllı Sistem Emri motoru eklendi",
-    "Vardiya rutini uyku, yemek, idman ve kalori takibiyle sadeleştirildi",
-    "Samsung Health / Health Connect taraması genişletildi",
-    "Hava durumu ve 3D rutin animasyonu eklendi",
-    "Günlük quest hedefleri haftalık gelişime göre uyarlanıyor"
+    "Yeni SYSTEM launcher ikonu eklendi",
+    "Ana ekran daha sade emir paneline dönüştürüldü",
+    "Rutin, vardiya, hava durumu ve akıllı takip ekranları cilalandı"
   ]
 }
