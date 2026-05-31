@@ -1,14 +1,16 @@
 {
-    "versionCode":  24,
-    "versionName":  "5.1.0",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.0/solo-system-v5.1.0.apk",
-    "sha256":  "bf5fbf53a85a99be792899662a7a89f84d4020fc06941f71e82eb13a990cac58",
-    "mandatory":  false,
-    "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-05-24T22:44:53+03:00",
-    "changelog":  [
-                      "v5 tasarım dilinde Sistem Motoru paneli eklendi.",
-                      "Sağlık verisi arka planda sistem beynine ve günlük koşu ilerlemesine bağlandı.",
-                      "Readiness, otorite ve komut özeti ana menüyle uyumlu kartlara taşındı."
-                  ]
+  "versionCode": 25,
+  "versionName": "5.1.1",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.1/solo-system-v5.1.1.apk",
+  "sha256": "8c46481f6df0a803f1c1f8d76d9d3a220a596ce1e755ff76aa6bcf98cc804695",
+  "mandatory": false,
+  "minSupportedVersionCode": 1,
+  "releasedAt": "2026-05-31T19:15:31.288Z",
+  "changelog": [
+    "Akıllı Sistem Emri motoru eklendi",
+    "Vardiya rutini uyku, yemek, idman ve kalori takibiyle sadeleştirildi",
+    "Samsung Health / Health Connect taraması genişletildi",
+    "Hava durumu ve 3D rutin animasyonu eklendi",
+    "Günlük quest hedefleri haftalık gelişime göre uyarlanıyor"
+  ]
 }
