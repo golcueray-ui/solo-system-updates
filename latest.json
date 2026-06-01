@@ -1,16 +1,18 @@
 {
   "versionCode": 64,
   "versionName": "5.1.40",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.40/solo-system-v5.1.40.apk",
-  "sha256": "0654ea835f4ec482024e7234ba123f5682e1946ca839cd0fc3e2c8e6d18b211c",
+  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.40/ironrise-v5.1.40.apk",
+  "sha256": "5926db5c656596e2e76c5c4e0f2b5b372159f70fcac6bad8d6cf7a4454f47390",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T19:12:28.018Z",
+  "releasedAt": "2026-06-01T19:31:56.934Z",
   "summary": "IronRise v5.1.40 hazır.",
   "changelog": [
     "Yeni sade AI koç merkezi",
     "Serbest idman akışı güçlendirildi",
     "Hareket kütüphanesine 3D animasyon eklendi",
-    "Gelişim takip paneli yenilendi"
+    "Gelişim takip paneli yenilendi",
+    "Update kanalı IronRise manifestine sabitlendi",
+    "IronRise marka kalıntıları temizlendi"
   ]
 }
