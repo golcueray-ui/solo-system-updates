@@ -1,14 +1,14 @@
 {
-  "versionCode": 57,
-  "versionName": "5.1.33",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.33/solo-system-v5.1.33.apk",
-  "sha256": "a479711ecb8febea7635dba560529dbfd91743b560a7ee005dc0decbe2575cc3",
+  "versionCode": 58,
+  "versionName": "5.1.34",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.34/solo-system-v5.1.34.apk",
+  "sha256": "ed951713522f841846e203980b229ccb5545b853201d640658ec5c384b28592f",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T13:00:46.192Z",
+  "releasedAt": "2026-06-01T13:46:12.491Z",
   "changelog": [
-    "Legacy battle ve Şeytan Şatosu kalıntıları kaldırıldı",
-    "Shop ayrı lazy modül olarak kaldı",
-    "Ana paket ve CSS küçültüldü"
+    "Yemek ekranı ayrı lazy modüle taşındı",
+    "Ayarlar ekranı ayrı lazy modüle taşındı",
+    "Ana paket boyutu küçültüldü"
   ]
 }
