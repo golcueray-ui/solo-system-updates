@@ -1,15 +1,15 @@
 {
-  "versionCode": 29,
-  "versionName": "5.1.5",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.5/solo-system-v5.1.5.apk",
-  "sha256": "4a943c2b1f58ae02bb176aa696d290e98f70e81b968494a7b76b0b1188e422fa",
+  "versionCode": 30,
+  "versionName": "5.1.6",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.6/solo-system-v5.1.6.apk",
+  "sha256": "f12b224e2d21fc9fa658ffb92869f023270862be89cfb65fb73b8e5524225359",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T03:55:41.485Z",
+  "releasedAt": "2026-06-01T04:02:34.279Z",
   "changelog": [
-    "Android native SYSTEM alarm plugin eklendi.",
-    "Vardiyaya göre yatış, uyku hazırlığı ve uyanış saati dinamik hesaplanır.",
-    "Rutin ekranına ne zaman uyudun/uyandın check-in alanı eklendi.",
-    "Ayarlar ve Rutin ekranından SYSTEM alarm planı kurulabilir."
+    "Vardiya öğün planı kahvaltı, öğle, akşam ve kapanış olarak netleştirildi.",
+    "Rutin ekranına tam Öğün Planı kartı eklendi.",
+    "SYSTEM gelişim takibine göre oda toplama, meal prep, hazırlık, mobilite ve haftalık inceleme önerir.",
+    "Yeni yaşam görevleri rutine eklenmeden önce onay ister."
   ]
 }
