@@ -1,15 +1,15 @@
 {
-  "versionCode": 34,
-  "versionName": "5.1.10",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.10/solo-system-v5.1.10.apk",
-  "sha256": "908a8b8747350b8c783ca5c331feddbc5130433563c3903cd7bdbbd2c1baa1b4",
+  "versionCode": 35,
+  "versionName": "5.1.11",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.11/solo-system-v5.1.11.apk",
+  "sha256": "f229b41a789f47a08f519b937bce8f036203fdedf1d8993ae3c53e6283cdef8d",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T04:30:29.606Z",
+  "releasedAt": "2026-06-01T04:44:54.203Z",
   "changelog": [
-    "Güncelleme kontrolü raw GitHub erişimi başarısız olursa yedek manifest kanallarını dener.",
-    "Manifest okuma WebView fetch başarısızlığında native HTTP yedeğine düşer.",
-    "GitHub Contents API ve jsDelivr fallback kanalları eklendi.",
-    "Güncelleme ekranında sunucu yok hatasına karşı kontrol akışı güçlendirildi."
+    "Uyanış için sabit SYSTEM alarmı eklendi; vardiya değişince eski uyanış alarmı iptal edilip yeni saate kurulur.",
+    "Wake alarm Android AlarmClock modunda ve ayrı alarm kanalında çalışır.",
+    "Alarm çaldıktan sonra aynı vardiya saatine göre ertesi gün tekrar planlanır.",
+    "Alarm bildirimi alarm sesi, titreşim ve full-screen intent ile güçlendirildi."
   ]
 }
