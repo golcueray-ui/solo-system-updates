@@ -1,12 +1,12 @@
 {
-  "versionCode": 45,
-  "versionName": "5.1.21",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.21/solo-system-v5.1.21.apk",
-  "sha256": "69935aaa53e83315746ed8c5eebb1131bdb5e9dbf462c425dd9244db278cda2d",
+  "versionCode": 46,
+  "versionName": "5.1.22",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.22/solo-system-v5.1.22.apk",
+  "sha256": "82f32feb6755b14260956841e7ab5b05c7fe92aa5e2762cc8f711c9dbbd5ea9b",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T07:28:52.983Z",
+  "releasedAt": "2026-06-01T07:50:29.012Z",
   "changelog": [
-    "Beslenme sekmesi Samsung Health aynasi oldu. Manuel ogun ve su girisi kaldirildi. Health Connect otomatik tarama acildi."
+    "Health Connect gecmis uyku ve beslenme taramasi eklendi. Samsung ogunlerinden kalori protein fallback toplami eklendi. SYSTEM Intelligence v2 guven skoru haftalik blok ve onayli oneriler eklendi."
   ]
 }
