@@ -1,12 +1,12 @@
 {
-  "versionCode": 46,
-  "versionName": "5.1.22",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.22/solo-system-v5.1.22.apk",
-  "sha256": "82f32feb6755b14260956841e7ab5b05c7fe92aa5e2762cc8f711c9dbbd5ea9b",
+  "versionCode": 47,
+  "versionName": "5.1.23",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.23/solo-system-v5.1.23.apk",
+  "sha256": "5642ebcdd79af2e296bf943cf457e9de0a60c5f0228956bea02de97b709bc0a5",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T07:50:29.012Z",
+  "releasedAt": "2026-06-01T08:09:56.607Z",
   "changelog": [
-    "Health Connect gecmis uyku ve beslenme taramasi eklendi. Samsung ogunlerinden kalori protein fallback toplami eklendi. SYSTEM Intelligence v2 guven skoru haftalik blok ve onayli oneriler eklendi."
+    "Samsung Health tam veri matrisi eklendi. Olan veri var, eksik veri yok, izin eksikse izin eksik gosteriliyor. Health Connect native kayit durumu genisletildi."
   ]
 }
