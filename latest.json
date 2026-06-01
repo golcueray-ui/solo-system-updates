@@ -1,14 +1,12 @@
 {
-  "versionCode": 43,
-  "versionName": "5.1.19",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.19/solo-system-v5.1.19.apk",
-  "sha256": "dee2ace06e65223e5bfd73921e42c7b9964ac3e39d2055fa824f7e6273a71efe",
+  "versionCode": 44,
+  "versionName": "5.1.20",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.20/solo-system-v5.1.20.apk",
+  "sha256": "5c2fc7c3a60f48ebd90f32d1c5a895a43786739423177619fa7109431dce15ba",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T07:13:37.692Z",
+  "releasedAt": "2026-06-01T07:21:11.244Z",
   "changelog": [
-    "Hava durumu ana ekrana taşındı",
-    "Rutin ekranındaki büyük hava paneli kaldırıldı",
-    "Ana ekrana kompakt 3D hava kartı ve hızlı tarama eklendi"
+    "Alt bara Yemek sekmesi eklendi. Ogun kalori protein ve su girisi eklendi. Samsung Health Tara ve Health Test beslenme ekranina eklendi."
   ]
 }
