@@ -1,15 +1,15 @@
 {
-  "versionCode": 36,
-  "versionName": "5.1.12",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.12/solo-system-v5.1.12.apk",
-  "sha256": "6e1b6043550ceb43dcf114a5da5e62bbe8299d80b36a6f8b567697b53511d113",
+  "versionCode": 37,
+  "versionName": "5.1.13",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.13/solo-system-v5.1.13.apk",
+  "sha256": "4f1d7a5a871e773b710b13bcd26b63442e28327f4146e963c9b4beebe8f3f0f4",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T04:53:39.988Z",
+  "releasedAt": "2026-06-01T05:11:28.007Z",
   "changelog": [
-    "Ayarlar ve oyun ilerlemesi için otomatik local güvenli kopya eklendi.",
-    "Ayarlar ekranına Yedek Al, Dosya Yükle ve Local Güvenli Kopyayı Geri Yükle kontrolleri eklendi.",
-    "Yedek dosyası tek JSON içinde ana kayıt, vardiya, rutin, uyku, supplement ve local SYSTEM kayıtlarını taşır.",
-    "Güncelleme kurulumu başlamadan önce otomatik güvenli kopya alınır."
+    "Eski Sistem Giriş Kapısı ekranı kaldırıldı.",
+    "Başlangıç ekranı sade kurulum ekranına çevrildi: ad, vardiya seçimi ve plan özeti gösterilir.",
+    "Kayıt yükleme, yedek dosyası yükleme ve güncelleme arama başlangıç ekranına mantıklı biçimde yerleştirildi.",
+    "Yeni kayıt başlatılırken seçilen vardiya korunur."
   ]
 }
