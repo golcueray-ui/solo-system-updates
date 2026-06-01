@@ -1,12 +1,14 @@
 {
-    "versionCode":  50,
-    "versionName":  "5.1.26",
-    "apkUrl":  "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.26/solo-system-v5.1.26.apk",
-    "sha256":  "ea8700033877703e8eb07b05f4642de0508a42efd9a274d51b6de053bf448885",
-    "mandatory":  false,
-    "minSupportedVersionCode":  1,
-    "releasedAt":  "2026-06-01T08:48:41.192Z",
-    "changelog":  [
-                      "Rutin sekmesi sade hale getirildi; yemek, su, supplement ve yemek hazirligi Yemek sekmesine tasindi. Hatirlatma sistemi ayni gunluk planla calismaya devam eder."
-                  ]
+  "versionCode": 51,
+  "versionName": "5.1.27",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.27/solo-system-v5.1.27.apk",
+  "sha256": "e699032370bb01b2a511db8d38b0a1f22d9248c629d70bf16286e4cce29ce800",
+  "mandatory": false,
+  "minSupportedVersionCode": 1,
+  "releasedAt": "2026-06-01T09:40:09.967Z",
+  "changelog": [
+    "Premium launcher icon yenilendi",
+    "OLED dark UI ve sade ekran iyileştirmeleri",
+    "Rutin/Yemek ekran ayrımı ve stabilite düzenlemeleri"
+  ]
 }
