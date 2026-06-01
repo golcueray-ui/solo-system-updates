@@ -1,14 +1,14 @@
 {
-  "versionCode": 40,
-  "versionName": "5.1.16",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.16/solo-system-v5.1.16.apk",
-  "sha256": "d152ea4151eec20c51fdafa298ef9b274cb45e4ac8c4f33dc7c5b0da5ffb137b",
+  "versionCode": 41,
+  "versionName": "5.1.17",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.17/solo-system-v5.1.17.apk",
+  "sha256": "5bc781c2949436dd9d1544065c4770b66d88a829864d95aa09adfa98f9e0c44b",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T06:35:47.221Z",
+  "releasedAt": "2026-06-01T06:51:15.318Z",
   "changelog": [
-    "Baslangicta profil ve isim alani tamamen kaldirildi",
-    "Baslat sonrasi otomatik Health hava alarm native baslangici kapatildi",
-    "Health tara hava tara ve alarm kur manuel butonlarla calisacak sekilde guvenli moda alindi"
+    "Rutin ekranı sadeleştirildi",
+    "Detaylar açılır bölüme taşındı",
+    "Üst panel sadece sıradaki emir ve temel saatleri gösterir"
   ]
 }
