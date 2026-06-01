@@ -1,14 +1,14 @@
 {
-  "versionCode": 60,
-  "versionName": "5.1.36",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.36/solo-system-v5.1.36.apk",
-  "sha256": "f3da52cca596197ccd0cfa95f86ccfb62abd37ede4b0ac7ebe8cfc04892b478f",
+  "versionCode": 61,
+  "versionName": "5.1.37",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.37/solo-system-v5.1.37.apk",
+  "sha256": "f0e54672bcb72dcb64590d78862da5f36d188f3130debd196bb3be54c91e5085",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T15:05:50.387Z",
+  "releasedAt": "2026-06-01T16:06:44.513Z",
   "changelog": [
-    "Ana dosya guvenli helper modullerine bolundu",
-    "Reminder ve alarm koprusu ayri module tasindi",
-    "Su, makro ve kalicilik duzeltmeleri korunarak APK yenilendi"
+    "Telefon alarm uygulamasina sessiz SET_ALARM ve alarm listesi dogrulama eklendi",
+    "Cihaz yeniden baslatma veya apk guncelleme sonrasi SYSTEM alarmi yeniden planlanir",
+    "Alarm durum metinleri, skill ve shop kataloglari ana dosyadan ayrildi"
   ]
 }
