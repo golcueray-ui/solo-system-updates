@@ -1,14 +1,14 @@
 {
-  "versionCode": 58,
-  "versionName": "5.1.34",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.34/solo-system-v5.1.34.apk",
-  "sha256": "ed951713522f841846e203980b229ccb5545b853201d640658ec5c384b28592f",
+  "versionCode": 59,
+  "versionName": "5.1.35",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.35/solo-system-v5.1.35.apk",
+  "sha256": "9418b21e87a88d5b84dba384011c70636fcf50ff2336487d7f140b27acf80fb8",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T13:46:12.491Z",
+  "releasedAt": "2026-06-01T14:24:01.372Z",
   "changelog": [
-    "Yemek ekranı ayrı lazy modüle taşındı",
-    "Ayarlar ekranı ayrı lazy modüle taşındı",
-    "Ana paket boyutu küçültüldü"
+    "Panel ekranı ayrı lazy modüle taşındı",
+    "Rutin ekranı ayrı lazy modüle taşındı",
+    "Ana paket boyutu 575 kB seviyesine indirildi"
   ]
 }
