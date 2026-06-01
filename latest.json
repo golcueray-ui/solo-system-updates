@@ -2,10 +2,10 @@
   "versionCode": 64,
   "versionName": "5.1.40",
   "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.40/solo-system-v5.1.40.apk",
-  "sha256": "6e64765e50ea24cc4b86ae00ea674eda8e5270f949eda82131c96955dfbfb692",
+  "sha256": "0654ea835f4ec482024e7234ba123f5682e1946ca839cd0fc3e2c8e6d18b211c",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T19:04:04.814Z",
+  "releasedAt": "2026-06-01T19:12:28.018Z",
   "summary": "IronRise v5.1.40 hazır.",
   "changelog": [
     "Yeni sade AI koç merkezi",
