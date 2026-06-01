@@ -1,12 +1,12 @@
 {
-  "versionCode": 48,
-  "versionName": "5.1.24",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.24/solo-system-v5.1.24.apk",
-  "sha256": "8e0064d88890b977d6e4d9eb6a73ba23a358f23ebcfa2e3b3aff1071b8383aa8",
+  "versionCode": 49,
+  "versionName": "5.1.25",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.25/solo-system-v5.1.25.apk",
+  "sha256": "d2d7e9cea47a4ecf065134209fdc0001d092619a5795cd4d96c6bfa59351c6dc",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T08:20:32.179Z",
+  "releasedAt": "2026-06-01T08:27:25.364Z",
   "changelog": [
-    "Samsung Health tarzi sade kartlar eklendi. Onemli veriler ustte gorunur, karta basinca ilgili detay paneli acilir."
+    "Samsung Health su kaydi raw HydrationRecord olarak da okunuyor. Aggregate bos donerse kayitlar toplanir. Veri yoksa 0 L yerine yok gosterilir."
   ]
 }
