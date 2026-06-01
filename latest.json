@@ -1,16 +1,14 @@
 {
-  "versionCode": 38,
-  "versionName": "5.1.14",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.14/solo-system-v5.1.14.apk",
-  "sha256": "cf8021b0a99d1397007592405f2667fe1defb83d320a71f6ef626293d1f501bb",
+  "versionCode": 39,
+  "versionName": "5.1.15",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.15/solo-system-v5.1.15.apk",
+  "sha256": "f4226cc9d2b70ab71b9930f8ff5660edc8adb5f448b187aaec1cd0e3c74ff0bc",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T06:15:43.604Z",
+  "releasedAt": "2026-06-01T06:28:53.931Z",
   "changelog": [
-    "Faz 2 akilli rutin motoru eklendi",
-    "Vardiyaya gore yemek uyku idman pencereleri guclendi",
-    "Evde hazir yemek var secimi ve pisirme hazirlik saatleri eklendi",
-    "Bos zaman pencereleri rutinde gosteriliyor",
-    "Uyanis dogrulama idman yuk takibi Health guvenilirlik ekrani gelistirildi"
+    "Baslangic ekrani tek kullanici moduna alindi isim girisi kaldirildi",
+    "Baslat butonunda uygulamadan atma riski giderildi",
+    "Ilk acilista alarm izin penceresi zorlamasi kaldirildi alarm kurulumu kontrollu hale getirildi"
   ]
 }
