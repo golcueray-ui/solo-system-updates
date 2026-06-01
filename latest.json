@@ -1,14 +1,15 @@
 {
-  "versionCode": 51,
-  "versionName": "5.1.27",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.27/solo-system-v5.1.27.apk",
-  "sha256": "e699032370bb01b2a511db8d38b0a1f22d9248c629d70bf16286e4cce29ce800",
+  "versionCode": 52,
+  "versionName": "5.1.28",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.28/solo-system-v5.1.28.apk",
+  "sha256": "ea8d555ae017822c34c1194432b16b82612e073d8b86c23897c7647f936f01c4",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T09:40:09.967Z",
+  "releasedAt": "2026-06-01T10:55:20.341Z",
   "changelog": [
-    "Premium launcher icon yenilendi",
-    "OLED dark UI ve sade ekran iyileştirmeleri",
-    "Rutin/Yemek ekran ayrımı ve stabilite düzenlemeleri"
+    "Samsung Health su kayıtları düzeltildi",
+    "Telefon alarm uygulamasına görünür alarm kurma düzeltildi",
+    "Beslenme karbonhidrat ve yağ barları eklendi",
+    "Üst taşma ve Android status bar düzeni iyileştirildi"
   ]
 }
