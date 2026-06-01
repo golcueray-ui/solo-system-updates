@@ -1,15 +1,15 @@
 {
-  "versionCode": 30,
-  "versionName": "5.1.6",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.6/solo-system-v5.1.6.apk",
-  "sha256": "f12b224e2d21fc9fa658ffb92869f023270862be89cfb65fb73b8e5524225359",
+  "versionCode": 31,
+  "versionName": "5.1.7",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.7/solo-system-v5.1.7.apk",
+  "sha256": "4b3571e1b2eee99f6d2b0649caec499a0d6238785e31fb466a66992e7cbc235f",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T04:02:34.279Z",
+  "releasedAt": "2026-06-01T04:07:49.694Z",
   "changelog": [
-    "Vardiya öğün planı kahvaltı, öğle, akşam ve kapanış olarak netleştirildi.",
-    "Rutin ekranına tam Öğün Planı kartı eklendi.",
-    "SYSTEM gelişim takibine göre oda toplama, meal prep, hazırlık, mobilite ve haftalık inceleme önerir.",
-    "Yeni yaşam görevleri rutine eklenmeden önce onay ister."
+    "Su hatırlatıcıları uyanış-uyku penceresine göre gün içine dağıtıldı.",
+    "Ayarlar bölümüne kreatin, ZMA, omega-3, D vitamini ve protein tozu seçimleri eklendi.",
+    "Rutin ekranına Su & Supplement planı eklendi.",
+    "Seçili supplementler sadece evde var işaretliyse rutine ve hatırlatıcılara girer."
   ]
 }
