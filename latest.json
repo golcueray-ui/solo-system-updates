@@ -1,15 +1,15 @@
 {
-  "versionCode": 31,
-  "versionName": "5.1.7",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.7/solo-system-v5.1.7.apk",
-  "sha256": "4b3571e1b2eee99f6d2b0649caec499a0d6238785e31fb466a66992e7cbc235f",
+  "versionCode": 32,
+  "versionName": "5.1.8",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.8/solo-system-v5.1.8.apk",
+  "sha256": "4e30f5c958f33d9f87ec5f9e4a963f7a1ac794f34db4413281756155d87aff39",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T04:07:49.694Z",
+  "releasedAt": "2026-06-01T04:16:01.522Z",
   "changelog": [
-    "Su hatırlatıcıları uyanış-uyku penceresine göre gün içine dağıtıldı.",
-    "Ayarlar bölümüne kreatin, ZMA, omega-3, D vitamini ve protein tozu seçimleri eklendi.",
-    "Rutin ekranına Su & Supplement planı eklendi.",
-    "Seçili supplementler sadece evde var işaretliyse rutine ve hatırlatıcılara girer."
+    "İdman sonu raporuna kas grubu yük kaydı eklendi.",
+    "Ön kol, itiş, çekiş, core, bacak, kardiyo ve mobilite yükleri takip ediliyor.",
+    "Dünkü yüksek yük aynı kas grubuna ertesi gün ekstra zorlama kilidi koyuyor.",
+    "Üst üste ağır idman, düşük uyku, yüksek ağrı veya soreness durumunda sistem dinlenme emri veriyor."
   ]
 }
