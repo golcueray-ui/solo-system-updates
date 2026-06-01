@@ -1,15 +1,15 @@
 {
-  "versionCode": 35,
-  "versionName": "5.1.11",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.11/solo-system-v5.1.11.apk",
-  "sha256": "f229b41a789f47a08f519b937bce8f036203fdedf1d8993ae3c53e6283cdef8d",
+  "versionCode": 36,
+  "versionName": "5.1.12",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.12/solo-system-v5.1.12.apk",
+  "sha256": "6e1b6043550ceb43dcf114a5da5e62bbe8299d80b36a6f8b567697b53511d113",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T04:44:54.203Z",
+  "releasedAt": "2026-06-01T04:53:39.988Z",
   "changelog": [
-    "Uyanış için sabit SYSTEM alarmı eklendi; vardiya değişince eski uyanış alarmı iptal edilip yeni saate kurulur.",
-    "Wake alarm Android AlarmClock modunda ve ayrı alarm kanalında çalışır.",
-    "Alarm çaldıktan sonra aynı vardiya saatine göre ertesi gün tekrar planlanır.",
-    "Alarm bildirimi alarm sesi, titreşim ve full-screen intent ile güçlendirildi."
+    "Ayarlar ve oyun ilerlemesi için otomatik local güvenli kopya eklendi.",
+    "Ayarlar ekranına Yedek Al, Dosya Yükle ve Local Güvenli Kopyayı Geri Yükle kontrolleri eklendi.",
+    "Yedek dosyası tek JSON içinde ana kayıt, vardiya, rutin, uyku, supplement ve local SYSTEM kayıtlarını taşır.",
+    "Güncelleme kurulumu başlamadan önce otomatik güvenli kopya alınır."
   ]
 }
