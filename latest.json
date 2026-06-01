@@ -1,14 +1,14 @@
 {
-  "versionCode": 62,
-  "versionName": "5.1.38",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.38/solo-system-v5.1.38.apk",
-  "sha256": "5c3698407e662bbc9e9273313860fe92236326a5d34db304e156c80317c4221e",
+  "versionCode": 63,
+  "versionName": "5.1.39",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.39/solo-system-v5.1.39.apk",
+  "sha256": "be4707b5c650a77ac899fe97fc01b9703b696fbe7f386541ab6e00d744149e72",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T16:14:27.226Z",
+  "releasedAt": "2026-06-01T17:56:26.359Z",
   "changelog": [
-    "Gunluk gorevlere 100 squat eklendi",
-    "Squat ilerlemesi bacak yuk motoruna baglandi",
-    "Ana komut ozeti ve quest checklist squat hedefini gosterir"
+    "Acilis crash riskini azaltmak icin kritik sekmeler statik yukleniyor.",
+    "Lazy hava/shop parcalari error boundary ile guvenli moda alindi.",
+    "Android v5.1.38 acilmama durumuna patch."
   ]
 }
