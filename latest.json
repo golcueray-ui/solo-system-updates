@@ -1,14 +1,14 @@
 {
-  "versionCode": 42,
-  "versionName": "5.1.18",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.18/solo-system-v5.1.18.apk",
-  "sha256": "5562afb2512a14575a9145fd2b82906a1af373f696ba0aca58f93a7a4efec8f6",
+  "versionCode": 43,
+  "versionName": "5.1.19",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.19/solo-system-v5.1.19.apk",
+  "sha256": "dee2ace06e65223e5bfd73921e42c7b9964ac3e39d2055fa824f7e6273a71efe",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T07:02:14.500Z",
+  "releasedAt": "2026-06-01T07:13:37.692Z",
   "changelog": [
-    "Alarm Kur crash düzeltildi",
-    "SYSTEM alarmı Android Clock ve internal yedek ile kurulacak",
-    "Health Test eklendi ve şüpheli Health Connect verileri işaretleniyor"
+    "Hava durumu ana ekrana taşındı",
+    "Rutin ekranındaki büyük hava paneli kaldırıldı",
+    "Ana ekrana kompakt 3D hava kartı ve hızlı tarama eklendi"
   ]
 }
