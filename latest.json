@@ -1,14 +1,14 @@
 {
-  "versionCode": 53,
-  "versionName": "5.1.29",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.29/solo-system-v5.1.29.apk",
-  "sha256": "a4cc6f47300c8ab0a4c32f80b3db3263c38a895823731048f8a21955f404c607",
+  "versionCode": 54,
+  "versionName": "5.1.30",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.30/solo-system-v5.1.30.apk",
+  "sha256": "0b5128d5543aa650c5e7b8cec27157daebd5bfcd61e6ff6fb13cb49abf42ae7c",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T11:13:09.885Z",
+  "releasedAt": "2026-06-01T11:47:59.237Z",
   "changelog": [
-    "Samsung Health su yoksa izin/record ayrımı gösterildi.",
-    "Health Connect suyu paylaşmadığında Beslenme ekranına lokal su düzeltmesi eklendi.",
-    "Lokal su düzeltmesi günlük bar, sistem motoru ve otomatik yedeğe işlenir."
+    "Güncelleme sonrası mevcut kayıt otomatik yüklenir.",
+    "Ayarlar, rutinler, sleep check-in ve sistem verisi local güvenli kopyadan geri alınır.",
+    "Eski Solo save keyleri taranır; kayıt varsa boş başlangıç ekranı gösterilmez."
   ]
 }
