@@ -1,14 +1,15 @@
 {
-  "versionCode": 54,
-  "versionName": "5.1.30",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.30/solo-system-v5.1.30.apk",
-  "sha256": "0b5128d5543aa650c5e7b8cec27157daebd5bfcd61e6ff6fb13cb49abf42ae7c",
+  "versionCode": 55,
+  "versionName": "5.1.31",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.31/solo-system-v5.1.31.apk",
+  "sha256": "5ac365055ac2f8c0353078e0980754ea4fb217f84644a32937813657cad2c522",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T11:47:59.237Z",
+  "releasedAt": "2026-06-01T12:20:23.741Z",
   "changelog": [
-    "Güncelleme sonrası mevcut kayıt otomatik yüklenir.",
-    "Ayarlar, rutinler, sleep check-in ve sistem verisi local güvenli kopyadan geri alınır.",
-    "Eski Solo save keyleri taranır; kayıt varsa boş başlangıç ekranı gösterilmez."
+    "Native Android yedek eklendi; guncelleme sonrasi veri kaybi riski azaltildi",
+    "Samsung Health su durumu netlestirildi ve lokal su duzeltmesi korundu",
+    "Alarm dogrulama mesaji ve Shop sekmesi guncellendi",
+    "Three.js hava sahnesi lazy chunk yapildi"
   ]
 }
