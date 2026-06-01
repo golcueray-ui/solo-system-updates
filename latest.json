@@ -1,14 +1,14 @@
 {
-  "versionCode": 61,
-  "versionName": "5.1.37",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.37/solo-system-v5.1.37.apk",
-  "sha256": "f0e54672bcb72dcb64590d78862da5f36d188f3130debd196bb3be54c91e5085",
+  "versionCode": 62,
+  "versionName": "5.1.38",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.38/solo-system-v5.1.38.apk",
+  "sha256": "5c3698407e662bbc9e9273313860fe92236326a5d34db304e156c80317c4221e",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T16:06:44.513Z",
+  "releasedAt": "2026-06-01T16:14:27.226Z",
   "changelog": [
-    "Telefon alarm uygulamasina sessiz SET_ALARM ve alarm listesi dogrulama eklendi",
-    "Cihaz yeniden baslatma veya apk guncelleme sonrasi SYSTEM alarmi yeniden planlanir",
-    "Alarm durum metinleri, skill ve shop kataloglari ana dosyadan ayrildi"
+    "Gunluk gorevlere 100 squat eklendi",
+    "Squat ilerlemesi bacak yuk motoruna baglandi",
+    "Ana komut ozeti ve quest checklist squat hedefini gosterir"
   ]
 }
