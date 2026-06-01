@@ -1,12 +1,12 @@
 {
-  "versionCode": 47,
-  "versionName": "5.1.23",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.23/solo-system-v5.1.23.apk",
-  "sha256": "5642ebcdd79af2e296bf943cf457e9de0a60c5f0228956bea02de97b709bc0a5",
+  "versionCode": 48,
+  "versionName": "5.1.24",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.24/solo-system-v5.1.24.apk",
+  "sha256": "8e0064d88890b977d6e4d9eb6a73ba23a358f23ebcfa2e3b3aff1071b8383aa8",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T08:09:56.607Z",
+  "releasedAt": "2026-06-01T08:20:32.179Z",
   "changelog": [
-    "Samsung Health tam veri matrisi eklendi. Olan veri var, eksik veri yok, izin eksikse izin eksik gosteriliyor. Health Connect native kayit durumu genisletildi."
+    "Samsung Health tarzi sade kartlar eklendi. Onemli veriler ustte gorunur, karta basinca ilgili detay paneli acilir."
   ]
 }
