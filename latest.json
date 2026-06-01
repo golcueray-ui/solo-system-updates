@@ -1,15 +1,15 @@
 {
-  "versionCode": 32,
-  "versionName": "5.1.8",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.8/solo-system-v5.1.8.apk",
-  "sha256": "4e30f5c958f33d9f87ec5f9e4a963f7a1ac794f34db4413281756155d87aff39",
+  "versionCode": 33,
+  "versionName": "5.1.9",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.9/solo-system-v5.1.9.apk",
+  "sha256": "4d141f6be35f9f23fca41beecbeaa75fcf5a1f77229634efe64c42db2f709b35",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T04:16:01.522Z",
+  "releasedAt": "2026-06-01T04:21:51.563Z",
   "changelog": [
-    "İdman sonu raporuna kas grubu yük kaydı eklendi.",
-    "Ön kol, itiş, çekiş, core, bacak, kardiyo ve mobilite yükleri takip ediliyor.",
-    "Dünkü yüksek yük aynı kas grubuna ertesi gün ekstra zorlama kilidi koyuyor.",
-    "Üst üste ağır idman, düşük uyku, yüksek ağrı veya soreness durumunda sistem dinlenme emri veriyor."
+    "Dinlenme veya kas grubu koruma kararı ana hedef kartına doğrudan yansıtıldı.",
+    "Dinlenme emrinde fiziksel checklist hedefleri kilitlenir ve ekran tek net toparlanma komutu gösterir.",
+    "Kas grubu korumada ilgili hedefler dikkat etiketiyle görünür, ekstra set dili sadeleştirildi.",
+    "İdman yük motoru artık engellenen ve dikkat gerektiren hedefleri ayrı üretir."
   ]
 }
