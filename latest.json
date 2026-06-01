@@ -1,14 +1,14 @@
 {
-  "versionCode": 56,
-  "versionName": "5.1.32",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.32/solo-system-v5.1.32.apk",
-  "sha256": "d9f0848c6facfb5b733b0f3d7ca2808f52053d34b83e471b93705db8be617064",
+  "versionCode": 57,
+  "versionName": "5.1.33",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.33/solo-system-v5.1.33.apk",
+  "sha256": "a479711ecb8febea7635dba560529dbfd91743b560a7ee005dc0decbe2575cc3",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T12:47:37.003Z",
+  "releasedAt": "2026-06-01T13:00:46.192Z",
   "changelog": [
-    "Shop ekranı ayrı modüle taşındı",
-    "Erişilemeyen legacy battle/shadow yüzeyleri kaldırıldı",
-    "Ana paket monolit riski azaltıldı"
+    "Legacy battle ve Şeytan Şatosu kalıntıları kaldırıldı",
+    "Shop ayrı lazy modül olarak kaldı",
+    "Ana paket ve CSS küçültüldü"
   ]
 }
