@@ -1,14 +1,14 @@
 {
-  "versionCode": 27,
-  "versionName": "5.1.3",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.3/solo-system-v5.1.3.apk",
-  "sha256": "00b03664d2e08ff61ea5560daf52cd0f650cd4e703eba89f883b8ef64b8d5f1d",
+  "versionCode": 28,
+  "versionName": "5.1.4",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.4/solo-system-v5.1.4.apk",
+  "sha256": "d8b419ab13d48686637401ba47fc84d0f666a92fe9bfc783eb021084460268e5",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T03:26:45.400Z",
+  "releasedAt": "2026-06-01T03:38:03.295Z",
   "changelog": [
-    "İdman zaman kapısı düzeltildi: saat gelmeden ana quest açılmaz",
-    "Dünün idman verisi bugünün emri gibi kullanılmaz",
-    "Rutin sıradaki adımı gerçek saate göre seçer"
+    "Güncelleme kontrolü canlı manifest cache-buster ile güçlendirildi.",
+    "Manuel Güncelleme Ara artık yok sayılan opsiyonel sürümü de tekrar gösterir.",
+    "v5.1.3 idman saati kilidi hotfixi korunuyor."
   ]
 }
