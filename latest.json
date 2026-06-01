@@ -1,14 +1,14 @@
 {
-  "versionCode": 26,
-  "versionName": "5.1.2",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.2/solo-system-v5.1.2.apk",
-  "sha256": "d549e0cc1c7072e088fccdf8ca4448ef9b09f6ca3c37fa14c23bf5e3a8a8669a",
+  "versionCode": 27,
+  "versionName": "5.1.3",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.3/solo-system-v5.1.3.apk",
+  "sha256": "00b03664d2e08ff61ea5560daf52cd0f650cd4e703eba89f883b8ef64b8d5f1d",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-05-31T20:17:22.614Z",
+  "releasedAt": "2026-06-01T03:26:45.400Z",
   "changelog": [
-    "Yeni SYSTEM launcher ikonu eklendi",
-    "Ana ekran daha sade emir paneline dönüştürüldü",
-    "Rutin, vardiya, hava durumu ve akıllı takip ekranları cilalandı"
+    "İdman zaman kapısı düzeltildi: saat gelmeden ana quest açılmaz",
+    "Dünün idman verisi bugünün emri gibi kullanılmaz",
+    "Rutin sıradaki adımı gerçek saate göre seçer"
   ]
 }
