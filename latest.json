@@ -1,14 +1,16 @@
 {
-  "versionCode": 63,
-  "versionName": "5.1.39",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.39/solo-system-v5.1.39.apk",
-  "sha256": "be4707b5c650a77ac899fe97fc01b9703b696fbe7f386541ab6e00d744149e72",
+  "versionCode": 64,
+  "versionName": "5.1.40",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.40/solo-system-v5.1.40.apk",
+  "sha256": "6e64765e50ea24cc4b86ae00ea674eda8e5270f949eda82131c96955dfbfb692",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T17:56:26.359Z",
+  "releasedAt": "2026-06-01T19:04:04.814Z",
+  "summary": "IronRise v5.1.40 hazır.",
   "changelog": [
-    "Acilis crash riskini azaltmak icin kritik sekmeler statik yukleniyor.",
-    "Lazy hava/shop parcalari error boundary ile guvenli moda alindi.",
-    "Android v5.1.38 acilmama durumuna patch."
+    "Yeni sade AI koç merkezi",
+    "Serbest idman akışı güçlendirildi",
+    "Hareket kütüphanesine 3D animasyon eklendi",
+    "Gelişim takip paneli yenilendi"
   ]
 }
