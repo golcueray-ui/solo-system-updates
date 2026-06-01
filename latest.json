@@ -1,14 +1,14 @@
 {
-  "versionCode": 39,
-  "versionName": "5.1.15",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.15/solo-system-v5.1.15.apk",
-  "sha256": "f4226cc9d2b70ab71b9930f8ff5660edc8adb5f448b187aaec1cd0e3c74ff0bc",
+  "versionCode": 40,
+  "versionName": "5.1.16",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.16/solo-system-v5.1.16.apk",
+  "sha256": "d152ea4151eec20c51fdafa298ef9b274cb45e4ac8c4f33dc7c5b0da5ffb137b",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T06:28:53.931Z",
+  "releasedAt": "2026-06-01T06:35:47.221Z",
   "changelog": [
-    "Baslangic ekrani tek kullanici moduna alindi isim girisi kaldirildi",
-    "Baslat butonunda uygulamadan atma riski giderildi",
-    "Ilk acilista alarm izin penceresi zorlamasi kaldirildi alarm kurulumu kontrollu hale getirildi"
+    "Baslangicta profil ve isim alani tamamen kaldirildi",
+    "Baslat sonrasi otomatik Health hava alarm native baslangici kapatildi",
+    "Health tara hava tara ve alarm kur manuel butonlarla calisacak sekilde guvenli moda alindi"
   ]
 }
