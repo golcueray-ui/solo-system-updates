@@ -1,14 +1,14 @@
 {
-  "versionCode": 65,
-  "versionName": "5.1.41",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.41/solo-system-v5.1.41.apk",
-  "sha256": "fc6428edfae3e799bfdf4942aa8f99a81da9c052a9371ef2e193961f2f7065f3",
+  "versionCode": 66,
+  "versionName": "5.1.42",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.42/solo-system-v5.1.42.apk",
+  "sha256": "4cd2858a112f93a880ea536f3a3736fc60d2e9cb46e7d8e63e4921f44006c26c",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-02T03:33:35.978Z",
+  "releasedAt": "2026-06-02T03:52:10.783Z",
   "changelog": [
-    "Siyah ekran icin Android splash cikis temasi duzeltildi.",
-    "Vite asset pathleri relative yapildi; WebView paket yukleme sorunu azaltilir.",
-    "Root crash recovery ve gorunur boot fallback eklendi; eski kayitlar normalize ediliyor."
+    "Status ekranina STR/VIT/AGI/INT/SEN fizik stat paneli eklendi.",
+    "Statlar quest rutin uyku su protein Health kayitlari ve toparlanma sinyalinden hesaplanir.",
+    "Toparlanma uyarisi VIT ve genel skoru kisar."
   ]
 }
