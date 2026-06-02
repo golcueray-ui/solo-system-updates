@@ -1,18 +1,14 @@
 {
-  "versionCode": 64,
-  "versionName": "5.1.40",
-  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.40/ironrise-v5.1.40.apk",
-  "sha256": "5926db5c656596e2e76c5c4e0f2b5b372159f70fcac6bad8d6cf7a4454f47390",
+  "versionCode": 65,
+  "versionName": "5.1.41",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.41/solo-system-v5.1.41.apk",
+  "sha256": "fc6428edfae3e799bfdf4942aa8f99a81da9c052a9371ef2e193961f2f7065f3",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-01T19:31:56.934Z",
-  "summary": "IronRise v5.1.40 hazır.",
+  "releasedAt": "2026-06-02T03:33:35.978Z",
   "changelog": [
-    "Yeni sade AI koç merkezi",
-    "Serbest idman akışı güçlendirildi",
-    "Hareket kütüphanesine 3D animasyon eklendi",
-    "Gelişim takip paneli yenilendi",
-    "Update kanalı IronRise manifestine sabitlendi",
-    "IronRise marka kalıntıları temizlendi"
+    "Siyah ekran icin Android splash cikis temasi duzeltildi.",
+    "Vite asset pathleri relative yapildi; WebView paket yukleme sorunu azaltilir.",
+    "Root crash recovery ve gorunur boot fallback eklendi; eski kayitlar normalize ediliyor."
   ]
 }
