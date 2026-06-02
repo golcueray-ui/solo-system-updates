@@ -1,14 +1,14 @@
 {
-  "versionCode": 67,
-  "versionName": "5.1.43",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.43/solo-system-v5.1.43.apk",
-  "sha256": "98ac662ca38ea40cd1041884c583a57a7d4093a327b0042d8b21d71e68fbc690",
+  "versionCode": 68,
+  "versionName": "5.1.44",
+  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.44/solo-system-v5.1.44.apk",
+  "sha256": "49994caa15963c6a8990fcd19ebec2383348102c231b5d7717a64de45ca635f5",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-02T04:07:13.324Z",
+  "releasedAt": "2026-06-02T04:17:55.884Z",
   "changelog": [
-    "Genel Statlar ekrani kariyer idman gecmisi ve vucut profilinden beslenir.",
-    "Vucut Profili kartina boy kilo bel gogus omuz kol bacak ve yag orani girisi eklendi.",
-    "STR VIT AGI INT SEN kaynaklari ekranda acikca gosterilir; uyku su protein toparlanma ve idman sinyalleri ayri agirliklarla islenir."
+    "Rutin ekranina Yaptim ve Yapmadim secenekleri eklendi.",
+    "Yapilmadi isaretlenen rutinler tamamlanmis sayilmaz ama siradaki emir ve alarm baskisindan duser.",
+    "Yapilmadi kayitlari ayri saklanir ve yedek/geri yukleme paketine dahil edilir."
   ]
 }
