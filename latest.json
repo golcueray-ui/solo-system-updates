@@ -1,14 +1,17 @@
 {
-  "versionCode": 68,
-  "versionName": "5.1.44",
-  "apkUrl": "https://github.com/golcueray-ui/solo-system-updates/releases/download/v5.1.44/solo-system-v5.1.44.apk",
-  "sha256": "49994caa15963c6a8990fcd19ebec2383348102c231b5d7717a64de45ca635f5",
+  "versionCode": 65,
+  "versionName": "5.1.41",
+  "apkUrl": "https://github.com/golcueray-ui/ironrise-updates/releases/download/v5.1.41/ironrise-v5.1.41.apk",
+  "sha256": "d55db92a8e8e310aa845a5ef68dfc31333e7595190fd3d23ea7ff9858c8d7c8f",
   "mandatory": false,
   "minSupportedVersionCode": 1,
-  "releasedAt": "2026-06-02T04:17:55.884Z",
+  "releasedAt": "2026-06-02T04:45:53.782Z",
+  "summary": "IronRise v5.1.41 menü yenilemesi hazır.",
   "changelog": [
-    "Rutin ekranina Yaptim ve Yapmadim secenekleri eklendi.",
-    "Yapilmadi isaretlenen rutinler tamamlanmis sayilmaz ama siradaki emir ve alarm baskisindan duser.",
-    "Yapilmadi kayitlari ayri saklanir ve yedek/geri yukleme paketine dahil edilir."
+    "Görsel menü düzeni tamamen yenilendi",
+    "Mobil alt menü IronRise command dock olarak yeniden yapıldı",
+    "Desktop ana menü sade command bar olarak yeniden çizildi",
+    "Eski Solo/System görsel kalıntıları temizlendi",
+    "Serbest idman ve AI koç girişleri görünür kaldı"
   ]
 }
